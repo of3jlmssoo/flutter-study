@@ -104,6 +104,7 @@ class TodoAddPage extends StatelessWidget {
       body: Container(
         // 余白を付ける
         // padding: const EdgeInsets.all(1.0),
+        // TODO padding works?
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
